@@ -1,0 +1,6 @@
+gradio
+pandas
+openpyxl
+pdfplumber
+ollama
+python-dotenv
