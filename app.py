@@ -213,5 +213,3 @@ with gr.Blocks() as app:
 
 
 app.launch(theme=gr.themes.Soft())
-# if __name__ == "__main__":
-#     app.launch()
